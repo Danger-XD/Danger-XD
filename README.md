@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danger-xd&label=Profile%20views&color=0e75b6&style=flat" alt="danger-xd" /> </p>
 
-- 🔭 I’m currently working on **Amazon Website Clone**
+- 🔭 I’m currently working on **Full Stack Website**
 
 - 🌱 I’m currently learning **JavaScript**
 
