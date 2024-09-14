@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Website**
 
-- 🌱 I’m currently learning **Express Js**
+- 🌱 I’m currently learning **Back End**
 
 - 📫 How to reach me **Syedmahmoud41@gmail.com**
 
